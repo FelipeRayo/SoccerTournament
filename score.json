@@ -1,0 +1,18 @@
+[
+    {
+        "team": "dignitas",
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "matchesDraw": 1,
+        "matchesLoses": 0,
+        "points": 4
+    },
+    {
+        "team": "team liquid",
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "matchesDraw": 1,
+        "matchesLoses": 0,
+        "points": 4
+    }
+]
